@@ -39,13 +39,13 @@ A blank line exits the program.
 
 ```
 HotelBookingSystem/
+├── Program.cs
 ├── Models/
 │   └── Models.cs
 ├── Services/
 │   └── HotelManager.cs
-├── bookings.json
 ├── hotels.json
-├── Program.cs
+└── bookings.json
 ```
 
 I kept the structure small so everything is easy to review in one pass.
