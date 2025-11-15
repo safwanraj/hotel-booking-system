@@ -43,10 +43,9 @@ HotelBookingSystem/
 │   └── Models.cs
 ├── Services/
 │   └── HotelManager.cs
-├── Program.cs
-├── hotels.json
 ├── bookings.json
-└── README.md
+├── hotels.json
+├── Program.cs
 ```
 
 I kept the structure small so everything is easy to review in one pass.
